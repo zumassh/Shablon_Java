@@ -25,6 +25,6 @@ public class Human {
                 ", lastName='" + lastName + '\'' +
                 ", birthDate=" + birthDate +
                 ", weight=" + weight +
-                '}';
+                '}' + '\n';
     }
 }

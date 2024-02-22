@@ -22,6 +22,7 @@ public class ApplToHuman {
         Stream<Human> stream = input.stream();
         stream.forEach( human -> {human.weight = human.weight - 5;});
         stream = input.stream();
+        System.out.println(input.toString());
         StringBuilder str = new StringBuilder();
         stream.filter(human -> human.birthDate.isBefore(LocalDate.of(1999, 2, 3)))
         .forEach(human -> str.append(human.lastName).append(" "));
