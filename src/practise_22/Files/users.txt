@@ -1,0 +1,4 @@
+UserDTO{id=7, firstName='Иван', lastName='Петров', middleName='Алексеевич', birthDate='10.10.2000', posts=[PostDTO{id=11, text='Проверка !!!', creationDate='25.04.2024', ownerId=7}, PostDTO{id=12, text='Проверка 2', creationDate='17.02.2004', ownerId=7}]}
+UserDTO{id=8, firstName='null', lastName='null', middleName='null', birthDate='null', posts=[]}
+UserDTO{id=9, firstName='Анастасия', lastName='Слободянюк', middleName='Андреевна', birthDate='17.02.2004', posts=[]}
+UserDTO{id=10, firstName='Игнатий', lastName='Арбузов', middleName='Арсеньевич', birthDate='24.03.2006', posts=[]}

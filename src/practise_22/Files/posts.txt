@@ -1,0 +1,2 @@
+PostDTO{id=11, text='Проверка !!!', creationDate='25.04.2024', ownerId=7}
+PostDTO{id=12, text='Проверка 2', creationDate='17.02.2004', ownerId=7}
