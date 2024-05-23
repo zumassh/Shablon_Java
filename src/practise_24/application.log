@@ -1,0 +1,502 @@
+1231 [main] INFO  c.e.p.Practise22Application
+                Ц Starting Practise22Application using Java 19.0.1 with PID 12704 (C:\Users\User\IdeaProjects\шаблоны\practise\src\practise_22\build\classes\java\main started by User in C:\Users\User\IdeaProjects\шаблоны)
+1241 [main] INFO  c.e.p.Practise22Application
+                Ц No active profile set, falling back to 1 default profile: "default"
+2793 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2884 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Finished Spring Data repository scanning in 78 ms. Found 2 JPA repository interfaces.
+4296 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat initialized with port 8080 (http)
+4311 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Initializing ProtocolHandler ["http-nio-8080"]
+4315 [main] INFO  o.a.catalina.core.StandardService
+                Ц Starting service [Tomcat]
+4315 [main] INFO  o.a.catalina.core.StandardEngine
+                Ц Starting Servlet engine: [Apache Tomcat/10.1.19]
+4397 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                Ц Initializing Spring embedded WebApplicationContext
+4397 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                Ц Root WebApplicationContext: initialization completed in 3064 ms
+4783 [main] INFO  o.h.jpa.internal.util.LogHelper
+                Ц HHH000204: Processing PersistenceUnitInfo [name: default]
+4877 [main] INFO  org.hibernate.Version
+                Ц HHH000412: Hibernate ORM core version 6.4.4.Final
+4941 [main] INFO  o.h.c.i.RegionFactoryInitiator
+                Ц HHH000026: Second-level cache disabled
+5277 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo
+                Ц No LoadTimeWeaver setup: ignoring JPA class transformer
+5317 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Starting...
+5768 [main] INFO  com.zaxxer.hikari.pool.HikariPool
+                Ц HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1884e671
+5770 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Start completed.
+7108 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator
+                Ц HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+7176 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                Ц Initialized JPA EntityManagerFactory for persistence unit 'default'
+7866 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration
+                Ц spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+8902 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Starting ProtocolHandler ["http-nio-8080"]
+8936 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat started on port 8080 (http) with context path ''
+8952 [main] INFO  c.e.p.Practise22Application
+                Ц Started Practise22Application in 8.444 seconds (process running for 9.142)
+892  [main] INFO  c.e.p.Practise22Application
+                Ц Starting Practise22Application using Java 19.0.1 with PID 17144 (C:\Users\User\IdeaProjects\шаблоны\practise\src\practise_22\build\classes\java\main started by User in C:\Users\User\IdeaProjects\шаблоны)
+900  [main] INFO  c.e.p.Practise22Application
+                Ц No active profile set, falling back to 1 default profile: "default"
+2121 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2198 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Finished Spring Data repository scanning in 63 ms. Found 2 JPA repository interfaces.
+3464 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat initialized with port 8080 (http)
+3478 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Initializing ProtocolHandler ["http-nio-8080"]
+3481 [main] INFO  o.a.catalina.core.StandardService
+                Ц Starting service [Tomcat]
+3481 [main] INFO  o.a.catalina.core.StandardEngine
+                Ц Starting Servlet engine: [Apache Tomcat/10.1.19]
+3596 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                Ц Initializing Spring embedded WebApplicationContext
+3597 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                Ц Root WebApplicationContext: initialization completed in 2606 ms
+3986 [main] INFO  o.h.jpa.internal.util.LogHelper
+                Ц HHH000204: Processing PersistenceUnitInfo [name: default]
+4079 [main] INFO  org.hibernate.Version
+                Ц HHH000412: Hibernate ORM core version 6.4.4.Final
+4144 [main] INFO  o.h.c.i.RegionFactoryInitiator
+                Ц HHH000026: Second-level cache disabled
+4476 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo
+                Ц No LoadTimeWeaver setup: ignoring JPA class transformer
+4524 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Starting...
+4927 [main] INFO  com.zaxxer.hikari.pool.HikariPool
+                Ц HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1da53f4f
+4929 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Start completed.
+6200 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator
+                Ц HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+6267 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                Ц Initialized JPA EntityManagerFactory for persistence unit 'default'
+6912 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration
+                Ц spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+7714 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Starting ProtocolHandler ["http-nio-8080"]
+7743 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat started on port 8080 (http) with context path ''
+7764 [main] INFO  c.e.p.Practise22Application
+                Ц Started Practise22Application in 7.356 seconds (process running for 7.968)
+7990 [task-1] INFO  c.e.practise_22.Service.PostService
+                Ц ѕолучение всех посылок
+7991 [task-1] INFO  c.e.practise_22.Service.UserService
+                Ц ѕолучение всех пользователей
+924  [main] INFO  c.e.p.Practise22Application
+                Ц Starting Practise22Application using Java 19.0.1 with PID 8500 (C:\Users\User\IdeaProjects\шаблоны\practise\src\practise_22\build\classes\java\main started by User in C:\Users\User\IdeaProjects\шаблоны)
+929  [main] INFO  c.e.p.Practise22Application
+                Ц No active profile set, falling back to 1 default profile: "default"
+2197 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2281 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Finished Spring Data repository scanning in 70 ms. Found 2 JPA repository interfaces.
+3567 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat initialized with port 8080 (http)
+3583 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Initializing ProtocolHandler ["http-nio-8080"]
+3586 [main] INFO  o.a.catalina.core.StandardService
+                Ц Starting service [Tomcat]
+3586 [main] INFO  o.a.catalina.core.StandardEngine
+                Ц Starting Servlet engine: [Apache Tomcat/10.1.19]
+3676 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                Ц Initializing Spring embedded WebApplicationContext
+3677 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                Ц Root WebApplicationContext: initialization completed in 2637 ms
+4000 [main] INFO  o.h.jpa.internal.util.LogHelper
+                Ц HHH000204: Processing PersistenceUnitInfo [name: default]
+4186 [main] INFO  org.hibernate.Version
+                Ц HHH000412: Hibernate ORM core version 6.4.4.Final
+4224 [main] INFO  o.h.c.i.RegionFactoryInitiator
+                Ц HHH000026: Second-level cache disabled
+4558 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo
+                Ц No LoadTimeWeaver setup: ignoring JPA class transformer
+4598 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Starting...
+4932 [main] INFO  com.zaxxer.hikari.pool.HikariPool
+                Ц HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@66b31d46
+4934 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Start completed.
+6195 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator
+                Ц HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+6265 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                Ц Initialized JPA EntityManagerFactory for persistence unit 'default'
+6921 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration
+                Ц spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+7696 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Starting ProtocolHandler ["http-nio-8080"]
+7723 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat started on port 8080 (http) with context path ''
+7742 [main] INFO  c.e.p.Practise22Application
+                Ц Started Practise22Application in 7.326 seconds (process running for 7.922)
+7928 [task-1] INFO  c.e.practise_22.Service.PostService
+                Ц ѕолучение всех посылок
+7932 [task-1] INFO  c.e.practise_22.Service.UserService
+                Ц ѕолучение всех пользователей
+1016 [main] INFO  c.e.p.Practise22Application
+                Ц Starting Practise22Application using Java 19.0.1 with PID 14572 (C:\Users\User\IdeaProjects\шаблоны\practise\src\practise_22\build\classes\java\main started by User in C:\Users\User\IdeaProjects\шаблоны)
+1021 [main] INFO  c.e.p.Practise22Application
+                Ц No active profile set, falling back to 1 default profile: "default"
+2387 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2471 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Finished Spring Data repository scanning in 69 ms. Found 2 JPA repository interfaces.
+3732 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat initialized with port 8080 (http)
+3749 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Initializing ProtocolHandler ["http-nio-8080"]
+3754 [main] INFO  o.a.catalina.core.StandardService
+                Ц Starting service [Tomcat]
+3754 [main] INFO  o.a.catalina.core.StandardEngine
+                Ц Starting Servlet engine: [Apache Tomcat/10.1.19]
+3845 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                Ц Initializing Spring embedded WebApplicationContext
+3846 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                Ц Root WebApplicationContext: initialization completed in 2712 ms
+4220 [main] INFO  o.h.jpa.internal.util.LogHelper
+                Ц HHH000204: Processing PersistenceUnitInfo [name: default]
+4303 [main] INFO  org.hibernate.Version
+                Ц HHH000412: Hibernate ORM core version 6.4.4.Final
+4345 [main] INFO  o.h.c.i.RegionFactoryInitiator
+                Ц HHH000026: Second-level cache disabled
+4653 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo
+                Ц No LoadTimeWeaver setup: ignoring JPA class transformer
+4689 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Starting...
+5135 [main] INFO  com.zaxxer.hikari.pool.HikariPool
+                Ц HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@c754401
+5138 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Start completed.
+6382 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator
+                Ц HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+6455 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                Ц Initialized JPA EntityManagerFactory for persistence unit 'default'
+7194 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration
+                Ц spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+7989 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Starting ProtocolHandler ["http-nio-8080"]
+8018 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat started on port 8080 (http) with context path ''
+8035 [main] INFO  c.e.p.Practise22Application
+                Ц Started Practise22Application in 7.575 seconds (process running for 8.235)
+8275 [task-1] INFO  c.e.practise_22.Service.PostService
+                Ц ѕолучение всех посылок
+8279 [task-1] INFO  c.e.practise_22.Service.UserService
+                Ц ѕолучение всех пользователей
+14136 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                Ц Initializing Spring DispatcherServlet 'dispatcherServlet'
+14137 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                Ц Initializing Servlet 'dispatcherServlet'
+14138 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                Ц Completed initialization in 1 ms
+14293 [http-nio-8080-exec-1] INFO  c.e.practise_22.Service.UserService
+                Ц —оздание пользовател€
+18081 [task-2] INFO  c.e.practise_22.Service.PostService
+                Ц ѕолучение всех посылок
+18081 [task-2] INFO  c.e.practise_22.Service.UserService
+                Ц ѕолучение всех пользователей
+28087 [task-3] INFO  c.e.practise_22.Service.PostService
+                Ц ѕолучение всех посылок
+28088 [task-3] INFO  c.e.practise_22.Service.UserService
+                Ц ѕолучение всех пользователей
+38087 [task-4] INFO  c.e.practise_22.Service.PostService
+                Ц ѕолучение всех посылок
+38088 [task-4] INFO  c.e.practise_22.Service.UserService
+                Ц ѕолучение всех пользователей
+1169 [main] INFO  c.e.p.Practise22Application
+                Ц Starting Practise22Application using Java 19.0.1 with PID 5592 (C:\Users\User\IdeaProjects\шаблоны\practise\src\practise_22\build\classes\java\main started by User in C:\Users\User\IdeaProjects\шаблоны)
+1174 [main] INFO  c.e.p.Practise22Application
+                Ц No active profile set, falling back to 1 default profile: "default"
+2708 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2862 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Finished Spring Data repository scanning in 139 ms. Found 2 JPA repository interfaces.
+4498 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat initialized with port 8080 (http)
+4521 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Initializing ProtocolHandler ["http-nio-8080"]
+4525 [main] INFO  o.a.catalina.core.StandardService
+                Ц Starting service [Tomcat]
+4525 [main] INFO  o.a.catalina.core.StandardEngine
+                Ц Starting Servlet engine: [Apache Tomcat/10.1.19]
+4656 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                Ц Initializing Spring embedded WebApplicationContext
+4657 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                Ц Root WebApplicationContext: initialization completed in 3361 ms
+5124 [main] INFO  o.h.jpa.internal.util.LogHelper
+                Ц HHH000204: Processing PersistenceUnitInfo [name: default]
+5253 [main] INFO  org.hibernate.Version
+                Ц HHH000412: Hibernate ORM core version 6.4.4.Final
+5317 [main] INFO  o.h.c.i.RegionFactoryInitiator
+                Ц HHH000026: Second-level cache disabled
+5785 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo
+                Ц No LoadTimeWeaver setup: ignoring JPA class transformer
+5836 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Starting...
+6397 [main] INFO  com.zaxxer.hikari.pool.HikariPool
+                Ц HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4e7eba9f
+6400 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Start completed.
+7959 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator
+                Ц HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+8049 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                Ц Initialized JPA EntityManagerFactory for persistence unit 'default'
+8851 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration
+                Ц spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+9661 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Starting ProtocolHandler ["http-nio-8080"]
+9696 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat started on port 8080 (http) with context path ''
+9726 [main] INFO  c.e.p.Practise22Application
+                Ц Started Practise22Application in 9.204 seconds (process running for 12.583)
+9982 [task-1] INFO  c.e.practise_22.Service.PostService
+                Ц ѕолучение всех посылок
+9988 [task-1] INFO  c.e.practise_22.Service.UserService
+                Ц ѕолучение всех пользователей
+19755 [task-2] INFO  c.e.practise_22.Service.PostService
+                Ц ѕолучение всех посылок
+19756 [task-2] INFO  c.e.practise_22.Service.UserService
+                Ц ѕолучение всех пользователей
+29756 [task-3] INFO  c.e.practise_22.Service.PostService
+                Ц ѕолучение всех посылок
+29757 [task-3] INFO  c.e.practise_22.Service.UserService
+                Ц ѕолучение всех пользователей
+39761 [task-4] INFO  c.e.practise_22.Service.PostService
+                Ц ѕолучение всех посылок
+39763 [task-4] INFO  c.e.practise_22.Service.UserService
+                Ц ѕолучение всех пользователей
+49763 [task-5] INFO  c.e.practise_22.Service.PostService
+                Ц ѕолучение всех посылок
+49764 [task-5] INFO  c.e.practise_22.Service.UserService
+                Ц ѕолучение всех пользователей
+59763 [task-6] INFO  c.e.practise_22.Service.PostService
+                Ц ѕолучение всех посылок
+59764 [task-6] INFO  c.e.practise_22.Service.UserService
+                Ц ѕолучение всех пользователей
+69775 [task-7] INFO  c.e.practise_22.Service.PostService
+                Ц ѕолучение всех посылок
+69776 [task-7] INFO  c.e.practise_22.Service.UserService
+                Ц ѕолучение всех пользователей
+79791 [task-8] INFO  c.e.practise_22.Service.PostService
+                Ц ѕолучение всех посылок
+79792 [task-8] INFO  c.e.practise_22.Service.UserService
+                Ц ѕолучение всех пользователей
+89916 [task-9] INFO  c.e.practise_22.Service.PostService
+                Ц ѕолучение всех посылок
+89919 [task-9] INFO  c.e.practise_22.Service.UserService
+                Ц ѕолучение всех пользователей
+1049 [main] INFO  c.e.p.Practise22Application
+                Ц Starting Practise22Application using Java 19.0.1 with PID 14064 (C:\Users\User\IdeaProjects\шаблоны\practise\src\practise_22\build\classes\java\main started by User in C:\Users\User\IdeaProjects\шаблоны)
+1054 [main] INFO  c.e.p.Practise22Application
+                Ц No active profile set, falling back to 1 default profile: "default"
+2261 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2343 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Finished Spring Data repository scanning in 72 ms. Found 2 JPA repository interfaces.
+3729 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat initialized with port 8080 (http)
+3743 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Initializing ProtocolHandler ["http-nio-8080"]
+3748 [main] INFO  o.a.catalina.core.StandardService
+                Ц Starting service [Tomcat]
+3748 [main] INFO  o.a.catalina.core.StandardEngine
+                Ц Starting Servlet engine: [Apache Tomcat/10.1.19]
+3851 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                Ц Initializing Spring embedded WebApplicationContext
+3853 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                Ц Root WebApplicationContext: initialization completed in 2717 ms
+4277 [main] INFO  o.h.jpa.internal.util.LogHelper
+                Ц HHH000204: Processing PersistenceUnitInfo [name: default]
+4370 [main] INFO  org.hibernate.Version
+                Ц HHH000412: Hibernate ORM core version 6.4.4.Final
+4425 [main] INFO  o.h.c.i.RegionFactoryInitiator
+                Ц HHH000026: Second-level cache disabled
+4797 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo
+                Ц No LoadTimeWeaver setup: ignoring JPA class transformer
+4840 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Starting...
+5310 [main] INFO  com.zaxxer.hikari.pool.HikariPool
+                Ц HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@29f95272
+5313 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Start completed.
+6764 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator
+                Ц HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+6841 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                Ц Initialized JPA EntityManagerFactory for persistence unit 'default'
+7513 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration
+                Ц spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+8308 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Starting ProtocolHandler ["http-nio-8080"]
+8339 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat started on port 8080 (http) with context path ''
+8360 [main] INFO  c.e.p.Practise22Application
+                Ц Started Practise22Application in 7.884 seconds (process running for 8.555)
+8607 [task-1] INFO  c.e.practise_22.Service.PostService
+                Ц ѕолучение всех посылок
+8613 [task-1] INFO  c.e.practise_22.Service.UserService
+                Ц ѕолучение всех пользователей
+1036 [main] INFO  c.e.p.Practise22Application
+                Ц Starting Practise22Application using Java 19.0.1 with PID 13464 (C:\Users\User\IdeaProjects\шаблоны\practise\src\practise_22\build\classes\java\main started by User in C:\Users\User\IdeaProjects\шаблоны)
+1052 [main] INFO  c.e.p.Practise22Application
+                Ц No active profile set, falling back to 1 default profile: "default"
+2323 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2406 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Finished Spring Data repository scanning in 70 ms. Found 2 JPA repository interfaces.
+3727 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat initialized with port 8080 (http)
+3745 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Initializing ProtocolHandler ["http-nio-8080"]
+3751 [main] INFO  o.a.catalina.core.StandardService
+                Ц Starting service [Tomcat]
+3752 [main] INFO  o.a.catalina.core.StandardEngine
+                Ц Starting Servlet engine: [Apache Tomcat/10.1.19]
+3870 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                Ц Initializing Spring embedded WebApplicationContext
+3871 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                Ц Root WebApplicationContext: initialization completed in 2731 ms
+4251 [main] INFO  o.h.jpa.internal.util.LogHelper
+                Ц HHH000204: Processing PersistenceUnitInfo [name: default]
+4328 [main] INFO  org.hibernate.Version
+                Ц HHH000412: Hibernate ORM core version 6.4.4.Final
+4372 [main] INFO  o.h.c.i.RegionFactoryInitiator
+                Ц HHH000026: Second-level cache disabled
+4724 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo
+                Ц No LoadTimeWeaver setup: ignoring JPA class transformer
+4759 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Starting...
+5147 [main] INFO  com.zaxxer.hikari.pool.HikariPool
+                Ц HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@c754401
+5149 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Start completed.
+6797 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator
+                Ц HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+6877 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                Ц Initialized JPA EntityManagerFactory for persistence unit 'default'
+8380 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration
+                Ц spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+9196 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Starting ProtocolHandler ["http-nio-8080"]
+9227 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat started on port 8080 (http) with context path ''
+9243 [main] INFO  c.e.p.Practise22Application
+                Ц Started Practise22Application in 8.758 seconds (process running for 9.488)
+9462 [task-1] INFO  c.e.practise_22.Service.PostService
+                Ц ѕолучение всех посылок
+9470 [task-1] INFO  c.e.practise_22.Service.UserService
+                Ц ѕолучение всех пользователей
+952  [main] INFO  c.e.p.Practise22Application
+                Ц Starting Practise22Application using Java 19.0.1 with PID 12900 (C:\Users\User\IdeaProjects\шаблоны\practise\src\practise_22\build\classes\java\main started by User in C:\Users\User\IdeaProjects\шаблоны)
+959  [main] INFO  c.e.p.Practise22Application
+                Ц No active profile set, falling back to 1 default profile: "default"
+3033 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+3103 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Finished Spring Data repository scanning in 56 ms. Found 2 JPA repository interfaces.
+4499 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat initialized with port 8080 (http)
+4521 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Initializing ProtocolHandler ["http-nio-8080"]
+4524 [main] INFO  o.a.catalina.core.StandardService
+                Ц Starting service [Tomcat]
+4524 [main] INFO  o.a.catalina.core.StandardEngine
+                Ц Starting Servlet engine: [Apache Tomcat/10.1.19]
+4689 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                Ц Initializing Spring embedded WebApplicationContext
+4689 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                Ц Root WebApplicationContext: initialization completed in 3543 ms
+5399 [main] INFO  o.h.jpa.internal.util.LogHelper
+                Ц HHH000204: Processing PersistenceUnitInfo [name: default]
+5480 [main] INFO  org.hibernate.Version
+                Ц HHH000412: Hibernate ORM core version 6.4.4.Final
+5529 [main] INFO  o.h.c.i.RegionFactoryInitiator
+                Ц HHH000026: Second-level cache disabled
+5863 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo
+                Ц No LoadTimeWeaver setup: ignoring JPA class transformer
+5902 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Starting...
+6292 [main] INFO  com.zaxxer.hikari.pool.HikariPool
+                Ц HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@780546f8
+6295 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Start completed.
+7502 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator
+                Ц HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+7580 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                Ц Initialized JPA EntityManagerFactory for persistence unit 'default'
+8325 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration
+                Ц spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+928  [main] INFO  c.e.p.Practise22Application
+                Ц Starting Practise22Application using Java 19.0.1 with PID 16868 (C:\Users\User\IdeaProjects\шаблоны\practise\src\practise_22\build\classes\java\main started by User in C:\Users\User\IdeaProjects\шаблоны)
+932  [main] INFO  c.e.p.Practise22Application
+                Ц No active profile set, falling back to 1 default profile: "default"
+2620 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2696 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                Ц Finished Spring Data repository scanning in 67 ms. Found 2 JPA repository interfaces.
+4046 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat initialized with port 8080 (http)
+4060 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Initializing ProtocolHandler ["http-nio-8080"]
+4062 [main] INFO  o.a.catalina.core.StandardService
+                Ц Starting service [Tomcat]
+4063 [main] INFO  o.a.catalina.core.StandardEngine
+                Ц Starting Servlet engine: [Apache Tomcat/10.1.19]
+4158 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                Ц Initializing Spring embedded WebApplicationContext
+4159 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                Ц Root WebApplicationContext: initialization completed in 3137 ms
+4885 [main] INFO  o.h.jpa.internal.util.LogHelper
+                Ц HHH000204: Processing PersistenceUnitInfo [name: default]
+4960 [main] INFO  org.hibernate.Version
+                Ц HHH000412: Hibernate ORM core version 6.4.4.Final
+5018 [main] INFO  o.h.c.i.RegionFactoryInitiator
+                Ц HHH000026: Second-level cache disabled
+5321 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo
+                Ц No LoadTimeWeaver setup: ignoring JPA class transformer
+5363 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Starting...
+5813 [main] INFO  com.zaxxer.hikari.pool.HikariPool
+                Ц HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@33399052
+5815 [main] INFO  com.zaxxer.hikari.HikariDataSource
+                Ц HikariPool-1 - Start completed.
+7122 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator
+                Ц HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+7194 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                Ц Initialized JPA EntityManagerFactory for persistence unit 'default'
+7959 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration
+                Ц spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+9404 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver
+                Ц Exposing 1 endpoint(s) beneath base path '/actuator'
+9529 [main] INFO  o.a.coyote.http11.Http11NioProtocol
+                Ц Starting ProtocolHandler ["http-nio-8080"]
+9552 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                Ц Tomcat started on port 8080 (http) with context path ''
+9582 [main] INFO  c.e.p.Practise22Application
+                Ц Started Practise22Application in 9.179 seconds (process running for 9.77)
+9878 [task-1] INFO  c.e.practise_22.Service.PostService
+                Ц ѕолучение всех посылок
+9882 [task-1] INFO  c.e.practise_22.Service.UserService
+                Ц ѕолучение всех пользователей
+98086 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                Ц Initializing Spring DispatcherServlet 'dispatcherServlet'
+98086 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet
+                Ц Initializing Servlet 'dispatcherServlet'
+98096 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet
+                Ц Completed initialization in 9 ms
+98674 [http-nio-8080-exec-2] INFO  c.e.practise_22.Service.UserService
+                Ц —оздание пользовател€
+108535 [task-2] INFO  c.e.practise_22.Service.PostService
+                Ц ѕолучение всех посылок
+108536 [task-2] INFO  c.e.practise_22.Service.UserService
+                Ц ѕолучение всех пользователей
